@@ -1,2 +1,2 @@
 # web-scraper
-Python web scraper for GPU
+Python web scraper for GPU using bs4 
